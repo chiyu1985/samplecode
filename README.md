@@ -1,4 +1,4 @@
 samplecode
 ==========
 
-node.js+androidのsampleode
+sampleode
